@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>video songs</title>
+</head>
+<body>
+<h1>butta bomma</h1>
+<video width="50%" height="50%" controls>
+<source src="F:\video songs\song.mp4" type="video/mp4" >
+</video><hr>
+<h1>nacho nacho</h1>
+<video width="50%" height="50%" controls >
+<source src="F:\video songs\nacho nacho.mp4" type="video/mp4">
+</video>
+</body>
+</html>
